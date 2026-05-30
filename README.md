@@ -33,32 +33,6 @@ An immersive Next.js experience that turns a Rubik's Cube into a cinematic, scro
 - Node.js 18 or newer
 - npm
 
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run locally
-
-```bash
-npm run dev
-```
-
-Open the app at:
-
-```bash
-http://localhost:3000
-```
-
-## Available Scripts
-
-```bash
-npm run dev
-npm run build
-npm run start
-npm run lint
-```
 
 ## How It Works
 
